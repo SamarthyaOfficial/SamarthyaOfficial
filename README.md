@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Samarthya.
 - 👀 I’m interested in Computer Science and Electronics.
-- 🌱 I’m currently learning Web development.
+- 🌱 I’m currently learning Neural Networks.
 - 💞️ I’m looking to collaborate on the same.
-- 📫 How to reach me: samarthyadevgupta7856@gmail.com
+- 📫 How to reach me: sgupta4_be23@thapar.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Orangutans can drive a car.
 
